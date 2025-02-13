@@ -43,7 +43,7 @@ yesBtn.addEventListener("click", () => {
         
         // Handle "Oh and..." button click
         ohAndBtn.addEventListener("click", () => {
-            document.body.innerHTML = "<h2>Wishing my girl a happy happy valentine ❤️ Thank you for always being supportive and patient with me 🐒</h2>";
+            document.body.innerHTML = "<h2>I just wanna take my time and wish my girl a happy happy valentine ❤️ Thank you for always being supportive and patient with me 🐒 Love you loads babe 🐵 </h2>";
             const finalGif = document.createElement("img");
             finalGif.src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVud3dpeWx1N3d6em5nbGExa2E1eGEwYTh6ZWlrcHN2dWl1NDY2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fu3OjBQiCs3s0ZuLY3/giphy.gif";
             document.body.appendChild(finalGif);
